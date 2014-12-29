@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Instagram</string>
+    <string name="hello_world">Welcome! Please Login</string>
+    <string name="action_settings">Logout</string>
+    <string name="hello_blank_fragment">User Information</string>
+    <string name="test">test code</string>
+    <string name="search_title">Search</string>
+    <string name="actionbar_welcome">Welcome</string>
+    <string name="title_activity_login">Instagram Login</string>
+    <string name="title_activity_viewer">Instagram</string>
+
+</resources>
